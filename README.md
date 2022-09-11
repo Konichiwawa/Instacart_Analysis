@@ -1,2 +1,3 @@
 # Instacart_Project
-Data Analysis Project using Python
+Data analysis project using Python
+
