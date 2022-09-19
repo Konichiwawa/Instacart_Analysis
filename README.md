@@ -11,5 +11,5 @@ Instacart's data contians information related to products, orders, customers, an
 - Excel was used to create a final report to present to the stakeholders. 
 
 ## Resources
-[Customers Dataset](https://github.com/Konichiwawa/Instacart_Project/files/9541838/customers.zip)
-[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+- [Customers Dataset](https://github.com/Konichiwawa/Instacart_Project/files/9541838/customers.zip)
+- [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
