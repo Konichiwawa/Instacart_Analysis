@@ -16,5 +16,5 @@ The dataset includes detailed information on various aspects of Instacart's busi
 - Excel: Used for final reporting and presentation to stakeholders.
 
 ## Resources
-- [Customers Dataset](https://github.com/Konichiwawa/Instacart_Project/files/9541838/customers.zip)
-- [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+- [Customers Dataset](https://github.com/Konichiwawa/Instacart_Project/files/9541838/customers.zip): The dataset containing information on customers.
+- [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b): A detailed explanation of the dataset's attributes and structure.
